@@ -1,17 +1,11 @@
 {
-  "name": "nextjs-blog-theme",
-  "description": "A customizable Next.js and Tailwind blog starter. Designed by the Bejamas agency.",
-  "author": "Bejamas and Netlify Inc.",
+  "name": "brho.us",
+  "description": "A simple URL shortener",
+  "author": "Talacha.dev",
   "contributors": [
-    "Charlie Gerard",
-    "Prince Wilson",
-    "Tara Manicsic",
-    "Thom Krupa"
+    "Rob Montero"
   ],
-  "homepage": "https://github.com/netlify-templates/nextjs-blog-theme",
-  "bugs": {
-    "url": "https://github.com/netlify-templates/nextjs-blog-theme/issues"
-  },
+  "homepage": "https://github.com/rmontero/bha",
   "scripts": {
     "dev": "next",
     "dev:watch": "next-remote-watch ./posts",

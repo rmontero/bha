@@ -39,11 +39,20 @@ exports.COLOR_THEMES = {
     colors: {
       primary: '#C78500',
       'gradient-1': '#FFCC81',
-      'gradient-2': '#00F37F',
-      'gradient-3': '#00F37F',
+      'gradient-2': '#FFC100',
+      'gradient-3': '#FF9A00',
       'gradient-4': '#FFCC81',
     },
   },
+  brhous: {
+    colors: {
+      primary: '#F0532D',
+      'gradient-1': '#ff7400',
+      'gradient-2': '#F0532D',
+      'gradient-3': '#F0532D',
+      'gradient-4': '#55504D',
+    },
+  }
 };
 
 exports.FONT_THEMES = {
